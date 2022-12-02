@@ -89,6 +89,7 @@ int main()
         p[st].ct=gt+1;
         gt++;
     }
+    // this is a  test
     for(int i=0;i<n;i++)
     {
         p[i].bt=btt[i];
